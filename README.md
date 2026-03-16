@@ -20,7 +20,7 @@ Model performance was evaluated using AUC with a rolling time-based cross-valida
 
 ## Dataset
 1.88 Million US Wildfires 24 years of geo-referenced wildfire records (https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data)
-Some large processed datasets generated can be downloaded via Google Drive. The download link is provided in the /data directory.
+Some large processed datasets generated can be downloaded via Google Drive. The download link is provided in the /datasets_check_point directory.
 
 ## Author
 Frank M — UC Davis
